@@ -1,0 +1,34 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+    
+}
+/* home */
+#home{
+height: 180;
+
+}
+#home::before{
+    height: 480;
+    
+    }
+
+/* services */
+#services{
+flex-direction: column;
+
+}
+#services .box{
+
+}
+
+
+/*clients  */
+#clients{
+overflow: hidden;
+}
+
+/* Contact Us */
+
+
+/* footer */
